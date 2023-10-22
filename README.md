@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7gf8j0x6lsjptkfi?svg=true)](https://ci.appveyor.com/project/gluk2309/api-ci)
+[![Java CI with Gradle](https://github.com/gluk2309/api-ci/actions/workflows/gradle.yml/badge.svg)](https://github.com/gluk2309/api-ci/actions/workflows/gradle.yml)
